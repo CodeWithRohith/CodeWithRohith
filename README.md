@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @RohithKumarSaravanan  
+- 👦🏻 I’m @RohithKumarSaravanan  
 - 👀 I’m a software developer with 3 years of full-stack development experience at Infosys. My interests include development, data structures and algorithms (DSA), machine learning, data analytics, and Big Data.  
 - 🌱 I’m currently pursuing a Master's in Computer Science at the University of New Brunswick.  
 - 💞️ I’m looking to collaborate on projects related to software development, AI/ML, and Big Data technologies.  
