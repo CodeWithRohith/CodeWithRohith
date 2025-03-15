@@ -1,5 +1,10 @@
-# 💫 About Me:
-## Hi there 👋<br><br>- 👦🏻 I’m @RohithKumarSaravanan  <br>- 👀 I’m a software developer with 3 years of full-stack development experience at Infosys. My interests include development, data structures and algorithms (DSA), machine learning, data analytics, and Big Data.  <br>- 🌱 I’m currently pursuing a Master's in Computer Science at the University of New Brunswick.  <br>- 💞️ I’m looking to collaborate on projects related to software development, AI/ML, and Big Data technologies.  <br>- 📫 How to reach me: [Email](mailto:s.rohithkumar1998@gmail.com) | [LinkedIn](https://linkedin.com/in/srohithkumar)  <br>- 😄 Pronouns: He/Him  <br>- ⚡ Fun fact: I enjoy building solutions that merge creativity and technology!  
+- 👦🏻 I’m @RohithKumarSaravanan  
+- 👀 I’m a software developer with 3 years of full-stack development experience at Infosys. My interests include development, data structures and algorithms (DSA), machine learning, data analytics, and Big Data.  
+- 🌱 I’m currently pursuing a Master's in Computer Science at the University of New Brunswick.  
+- 💞️ I’m looking to collaborate on projects related to software development, AI/ML, and Big Data technologies.  
+- 📫 How to reach me: [Email](mailto:s.rohithkumar1998@gmail.com) | [LinkedIn](https://linkedin.com/in/srohithkumar)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy building solutions that merge creativity and technology!
 
 
 ## 🌐 Socials:
